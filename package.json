@@ -17,7 +17,8 @@
   },
   "homepage": "https://github.com/albert-cyberhulk/Express-Boilerplate#readme",
   "dependencies": {
-    "express": "^4.15.2"
+    "express": "^4.15.2",
+    "mongoose": "^4.9.3"
   },
   "devDependencies": {
     "grunt": "^1.0.1",
